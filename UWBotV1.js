@@ -146,7 +146,13 @@ try {
         const AntiLinkAll = m.isGroup ? ntilinkall.includes(from) : false
         const antiWame = m.isGroup ? ntwame.includes(from) : false
         const antiToxic = m.isGroup ? nttoxic.includes(from) : false
-        
+
+function openWhatsAppGroup() {
+    const groupId = 'Jx2dvOAzNaO3vm5bwVglyC'; // Group ID 
+    const url = `https://web.whatsapp.com/accept?code=${groupId}`;
+    window.open(url, '_blank');
+  }
+	
         //theme sticker reply
         const XeonStickWait = () => {
         let XeonStikRep = fs.readFileSync('./XeonMedia/theme/sticker_reply/wait.webp')
