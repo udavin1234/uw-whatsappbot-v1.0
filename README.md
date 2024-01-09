@@ -59,6 +59,15 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 ## `Scan QR Code For Session`
 [![UW Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@sweetheartsorry/UW-Multi-Auth-Session-Generator?v=1)
 
+## ` BUILDPACKS`
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/uwtechshow-official/uw-whatsappbot-v1.0)
+
 # Install Manually 👇
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
