@@ -59,15 +59,6 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 ## `Scan QR Code For Session`
 [![UW Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@sweetheartsorry/UW-Multi-Auth-Session-Generator?v=1)
 
-## ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
-
 # Install Manually 👇
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
@@ -77,8 +68,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD8.git
-cd CheemsBot-MD8
+git clone https://github.com/uwtechshow-official/uw-whatsappbot-v1.0git
+cd uw-whatsappbot-v1.0
 
 npm start
 ```
@@ -94,8 +85,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD8
-cd CheemsBot-MD8
+git clone https://github.com/uwtechshow-official/uw-whatsappbot-v1.0
+cd uw-whatsappbot-v1.0
 yarn install
 npm start
 ```
@@ -107,8 +98,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD8
-cd CheemsBot-MD8
+git clone https://github.com/uwtechshow-official/uw-whatsappbot-v1.0
+cd uw-whatsappbot-v1.0
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
