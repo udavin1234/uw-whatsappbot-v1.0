@@ -57,7 +57,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 - FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD8/fork)
 
 ## `Scan QR Code For Session`
-[![UW Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@sweetheartsorry/UW-Multi-Auth-Session-Generator?v=1)
+[![UW Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@udavin34/UW-Multi-Auth-Session-Generator?v=1)
 
 ## ` BUILDPACKS`
 
