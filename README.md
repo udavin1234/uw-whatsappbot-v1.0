@@ -2,7 +2,7 @@
 
 <h1 align="center">UW TECH SHOW BOT V 1.0<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/Kh3Zpxd/Untitled-1.jpg" width="540" height="280" />
+<img src="https://i.ibb.co/Kh3Zpxd/Untitled-1.jpg" width="500" height="500" />
 </p>
 
 <p align="center">
