@@ -2,11 +2,11 @@
 
 <h1 align="center">UW TECH SHOW BOT V 1.0<br></h1>
 <p align="center">
-<img src="https://ibb.co/wgxHFhV" width="540" height="280" />
+<img src="https://i.ibb.co/Kh3Zpxd/Untitled-1.jpg" width="540" height="280" />
 </p>
 
 <p align="center">
-UW Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/uwtechshow-official" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+UW Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/uwtechshow-official" target="_blank">Udavin</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
