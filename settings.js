@@ -38,7 +38,7 @@ global.websitex = "https://www.youtube.com/@uwtechshow"
 global.wagc = "https://chat.whatsapp.com/Jx2dvOAzNaO3vm5bwVglyC"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0' //script link
+global.botscript = 'https://github.com/uwtechshow-official/uw-whatsappbot-v1.0' //script link
 global.packname = "Sticker By UW TECH SHOW BOT"
 global.author = "📌 𝚄𝙳𝙰𝚅𝙸𝙽\n\n"
 global.creator = "94761192103@s.whatsapp.net"
@@ -47,10 +47,10 @@ global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/uwtechbot.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/uwtechbot.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/uwtechbot.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/uwtechbot.jpg") //ur thumb pic
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
 
 //menu image maker

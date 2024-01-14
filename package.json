@@ -93,10 +93,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0.git"
+    "url": "git+https://github.com/uwtechshow-official/uw-whatsappbot-v1.0.git"
   },
   "bugs": {
-    "url": "https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0/issues"
+    "url": "https://github.com/uwtechshow-official/uw-whatsappbot-v1.0/issues"
   },
-  "homepage": "https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0/#readme"
+  "homepage": "https://github.com/uwtechshow-official/uw-whatsappbot-v1.0/#readme"
 }
